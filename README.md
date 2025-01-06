@@ -4,3 +4,4 @@ This repository will helps to understand the different patterns.
 Today is the Day 3 and i have learn Top Kth Element Pattern.
 Today I have Learned IntervalOverLappingPattern.
 Today I have participated in contest and experience was really painful.
+Today I have solved Unique binary search problem.
