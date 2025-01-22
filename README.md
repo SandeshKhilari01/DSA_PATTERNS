@@ -19,3 +19,4 @@ Today I have participated in Hackathon so I am Working on design part.
 Today I have worked on my hackathon project.
 Today I taken little rest but now I start work again.
 Today I travelled and now read some tech insights.
+Today I have learned some topics.
