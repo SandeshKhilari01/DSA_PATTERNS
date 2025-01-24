@@ -21,3 +21,4 @@ Today I taken little rest but now I start work again.
 Today I travelled and now read some tech insights.
 Today I have learned some topics.
 Todat I have attended post meeting.
+Today I have solve two pointer problems.
